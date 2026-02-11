@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://snowboarding-website.netlify.app/*"
+  to = "https://ride-snowboards.netlify.app/:splat"
+  status = 301
+  force = true
